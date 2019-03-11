@@ -26,7 +26,7 @@
     "body": {
       "background": {
         "type": "html",
-        "url": "https://web.quantimo.do?webview=true&clientId=quantimodo",
+        "url": "https://quantimodo.quantimo.do?webview=true",
         "action": {
           "trigger": "visit"
         }
